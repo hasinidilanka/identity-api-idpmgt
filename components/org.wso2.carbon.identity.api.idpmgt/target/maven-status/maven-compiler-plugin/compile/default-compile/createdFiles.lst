@@ -1,0 +1,8 @@
+org/wso2/carbon/identity/api/idpmgt/IdPMgtRuntimeException.class
+org/wso2/carbon/identity/api/idpmgt/IDPMgtBridgeServiceException.class
+org/wso2/carbon/identity/api/idpmgt/IDPMgtBridgeService.class
+org/wso2/carbon/identity/api/idpmgt/IdPUtils.class
+org/wso2/carbon/identity/api/idpmgt/IDPMgtBridgeServiceClientException.class
+org/wso2/carbon/identity/api/idpmgt/IdPConstants$ErrorMessages.class
+org/wso2/carbon/identity/api/idpmgt/IdPConstants.class
+org/wso2/carbon/identity/api/idpmgt/IdPConfigParser.class

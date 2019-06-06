@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1559825497232
+Build-Jdk: 1.8.0_191
+Built-By: hasini
+Bundle-Description: WSO2 is an open source application development softw
+ are company focused on providing service-oriented        architecture s
+ olutions for professional developers.
+Bundle-DocURL: http://www.wso2.org/
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: org.wso2.carbon.identity.api.idpmgt
+Bundle-SymbolicName: org.wso2.carbon.identity.api.idpmgt
+Bundle-Vendor: WSO2
+Bundle-Version: 0.8.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.wso2.carbon.identity.api.idpmgt;version="0.8"
+Import-Package: org.osgi.framework;version="[1.7,2)",org.osgi.service.co
+ mponent;version="[1.2,2)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-4.2.0.201903051501
